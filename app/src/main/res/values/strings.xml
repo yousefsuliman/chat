@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">chat</string>
+    <string name="write_a_message">Write a message</string>
+    <string name="placeholder_message">Placeholder message</string>
+    <string name="rose">Rose</string>
+    <string name="how_are_you_doing_this_is_a_long_message_that_should_probably_wrap">How are you doing? This is a long message that should probably wrap.</string>
+</resources>
